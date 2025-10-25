@@ -1,0 +1,5 @@
+{
+  "name": "P-Value Misuse Assessor",
+  "description": "An application that analyzes text from URLs or documents (PDF, DOCX) to identify potential misuses of p-values based on the American Statistical Association (ASA) statement.",
+  "requestFramePermissions": []
+}
